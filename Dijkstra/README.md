@@ -27,7 +27,7 @@ pq.push({cost[start],start});
   while(!Q.empty()){
     auto cur = pq.top(); pq.pop();
     for(int i=0;i<edges[cur.second].size();i++){
-      int next = edges[cur.second][i];
+      pari<int,int> next = edges[cur.second][i];
       if(cost[next.second] <= cost[cur.second] + next.first) continue;
       cost[next.second] = cost[cur.second] + next.first;
       pq.push({cost[next.second],next.second});
