@@ -23,6 +23,7 @@ void dijkstra() {
     pq.push({ cost[K],K });
     while (!pq.empty()) {
         auto cur = pq.top(); pq.pop();
+        if(cost[cur.second]!=cur.first) continue;
         for (int i = 0; i < edges[cur.second].size(); i++) {
             pair<int, int> next = edges[cur.second][i];
             if (cost[next.second] <= cost[cur.second] + next.first) continue;
