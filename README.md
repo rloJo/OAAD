@@ -14,6 +14,16 @@
     <th> 설명 보기</th> 
     <th> 관련문제 바로가기</th>    
   </tr>
+   <tr>
+    <th> 동적 계획법 (Dynamic Programming) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/DP"> 다이나믹 프로그래밍 이란? </a> </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/DP/example"> DP 예제</a></th>
+  </tr>
+   <tr>
+    <th> 너비 우선 탐색 (Breadth-First Search) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/BFS"> BFS 란? </a> </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/BFS/example"> BFS 예제</a></th>
+  </tr>
   <tr>
     <th> 이분 탐색 (Binary Search) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/BinarySearch"> 이분탐색 이란? </a>     </th>
@@ -23,11 +33,6 @@
     <th> 투포인터 (Two Pointers) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/TwoPointers"> 투포인터 란? </a> </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/TwoPointers/example"> 투포인터 예제</a></th>
-  </tr>
-  <tr>
-    <th> 너비 우선 탐색 (Breadth-First Search) </th>
-    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/BFS"> BFS 란? </a> </th>
-    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/BFS/example"> BFS 예제</a></th>
   </tr>
    <th> 다익스트라 (Dijkstra) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Dijkstra"> 다익스트라 란? </a>     </th>
