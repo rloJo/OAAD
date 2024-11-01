@@ -39,9 +39,20 @@
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/TwoPointers"> 투포인터 란? </a> </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/TwoPointers/example"> 투포인터 예제</a></th>
   </tr>
+  <tr>
    <th> 다익스트라 (Dijkstra) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Dijkstra"> 다익스트라 란? </a>     </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Dijkstra/example"> 다익스트라 예제 </a> </th>
+  </tr>
+  <th> 플로이드 와샬 (FloydWarshall) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/FloydWarshall"> 플로이드 와샬 이란? </a>     </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/MST/FloydWarshall"> 플로이드 와샬 예제 </a> </th>
+  </tr>
+   <tr>
+   <th> 최소 신장 트리 (Minimum Spanning Tree) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/MST"> 최소 신장 트리 란? </a>     </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/MST/example"> 최소 신장 트리 예제 </a> </th>
+  </tr>
    <tr>
     <th> 위상 정렬 (Topology Sort) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/TopologySort"> 위상 정렬 이란? </a> </th>
