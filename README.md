@@ -45,6 +45,11 @@
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/TwoPointers/example"> 투포인터 예제</a></th>
   </tr>
   <tr>
+   <th> 수학적 접근 (Math) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Math"> 수학적 접근 </a>     </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Math/example"> 수학적 예제 </a> </th>
+  </tr>
+  <tr>
    <th> 다익스트라 (Dijkstra) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Dijkstra"> 다익스트라 란? </a>     </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Dijkstra/example"> 다익스트라 예제 </a> </th>
