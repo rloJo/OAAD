@@ -6,6 +6,11 @@
     <th> 설명 보기</th> 
     <th> 관련문제 바로가기</th>    
   </tr>
+  <tr>
+    <th> 우선순위 큐 (Priority Queue) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/PriorityQueue"> 우선순위 큐 란? </a>     </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/PriorityQueue/example"> 우선순위 큐 예제</a></th>
+  </tr>
 </table>
 
 <table>
