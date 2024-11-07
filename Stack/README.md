@@ -5,21 +5,17 @@
   - top 을 감소시켜 데이터 삭제
 - 삽입 및 삭제 O(1), 탐색 및 접근 O($$N$$) 
 
-
-
-
-
 ### 메소드
 ```c++
-#include <queue> // 헤더 선언
+#include<stack> // 헤더 선언
 
-//priority_queue<DataType> name;
-priority_queue<int> Q;
+//stack<DataType> name;
+stack<int> st;
 
-//삽입
-Q.push(data); //데이터 추가
-Q.top(); //first 데이터 반환
-Q.pop(); // 데이터 삭제
-Q.size(); // 큐 현재 크기 반환
-Q.empty(); // 큐가 비어있는지 확인
+st.push(element); //요소 삽입
+st.top(element); // 마지막 원소(마지막에 삽입한) 반환
+st.pop();// 요소 삭제
+st.size(); // 스택 크기 반환
+st.empty(); // 스택이 비어있는지 검사
+swap(st1,st2); // 스택끼리 swap
 ```
