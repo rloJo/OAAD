@@ -6,6 +6,11 @@
     <th> 설명 보기</th> 
     <th> 관련문제 바로가기</th>    
   </tr>
+   <tr>
+    <th> 스택 (Stack) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Stack"> 스택 이란? </a>     </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Stack/example"> 스택 예제</a></th>
+  </tr>
   <tr>
     <th> 우선순위 큐 (Priority Queue) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/PriorityQueue"> 우선순위 큐 란? </a>     </th>
