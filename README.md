@@ -49,6 +49,11 @@
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/TwoPointers"> 투포인터 란? </a> </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/TwoPointers/example"> 투포인터 예제</a></th>
   </tr>
+   <tr>
+    <th> 그리디 (Greedy) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Greedy"> 그리디 란? </a> </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Greedy/example"> 그리디 예제</a></th>
+  </tr>
   <tr>
    <th> 수학적 접근 (Math) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Math"> 수학적 접근 </a>     </th>
