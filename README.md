@@ -37,7 +37,7 @@
   <tr>
     <th> 백트래킹 (Back-Tracking) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/BackTracking"> 백트래킹 이란? </a> </th>
-    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Back-Tracking/example"> 백트래킹 예제</a></th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/BackTracking/example"> 백트래킹 예제</a></th>
   </tr>
   <tr>
     <th> 이분 탐색 (Binary Search) </th>
