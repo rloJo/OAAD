@@ -1,4 +1,4 @@
-    ## 문제 조건
+## 문제 조건
 > <a href = "https://www.acmicpc.net/problem/13905"> 문제 링크 </a>  
 > 시간제한 : 1초  
 > 메모리 제한 : 256MB  
