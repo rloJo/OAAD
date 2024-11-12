@@ -37,7 +37,7 @@ while(cnt<v-1){
   cnt++;
   for(int i=0;i<adj[b].size();i++) {
     if(chk[adj[b].second]) continue;
-    pq.push({adj[b].first,b,adj[b].second});
+    pq.push({adj[b][i].first,b,adj[b][i].second});
   }
 }
 
