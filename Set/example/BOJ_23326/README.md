@@ -14,7 +14,7 @@
 ### 트러블 슈팅
 ---
 set을 순차 탐색하여 풀었더니 시간 초과 (TLE)  
--> set에 포함되어 있는 lower_bound 메소드를 사용했다.
--> set의 lower_bound도 algorithm의 lower_bound와 같이, 이분 탐색으로 원소를 탐색한다.
+-> set에 포함되어 있는 lower_bound 메소드를 사용했다.  
+-> set의 lower_bound도 algorithm의 lower_bound와 같이, 이분 탐색으로 원소를 탐색한다.  
 -> algorithm의 lower_bound는 set처럼 random access가 안 되는 iterator에 대해 $O(N)$의 시간복잡도를 갖지만 set의 lower_bound는 $O(logN)$  
 
