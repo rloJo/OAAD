@@ -12,4 +12,8 @@
 4. set에서 dh 이상인 값이 처음 나오는 pos를 반환 받는다. 없으면 시작점. set이 비었으면 -1 출력
 
 ### 트러블 슈팅
-set을 순차 탐색하여 풀었더니 시간 초과 (TLE), set에 포함되어 있는 lower_bound 메소드를 사용했다.
+---
+set을 순차 탐색하여 풀었더니 시간 초과 (TLE)  
+-> set에 포함되어 있는 lower_bound 메소드를 사용했다.
+-> set의 lower_bound도 algorithm의 lower_bound와 같이, 이분 탐색으로 원소를 탐색한다.
+
