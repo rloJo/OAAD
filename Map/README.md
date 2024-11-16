@@ -9,7 +9,8 @@
 ``` C++
 #include <map> // 헤더 선언
 
-map<int> m;
+//map<keyType,valueType> name;
+map<int,int> m;
 m.begin(); // 첫 번째 원소를 가리키는 반복자 return
 m.cbegin(); // 첫 번째 원소를 가리키는 상수 반복자 return
 m.end(); // 마지막 원소를 가리키는 반복자 return
