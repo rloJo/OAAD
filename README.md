@@ -35,6 +35,11 @@
     <th> 관련문제 </th>    
   </tr>
   <tr>
+    <th> 기초 (Basic) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Basic"> 기초 </a>     </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Basic/example"> 기초 예제</a></th>
+  </tr>
+  <tr>
     <th> 동적 계획법 (Dynamic Programming) </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/DP"> 다이나믹 프로그래밍 이란? </a>     </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/DP/example"> DP 예제</a></th>
