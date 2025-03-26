@@ -16,6 +16,11 @@
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/PriorityQueue"> 우선순위 큐 란? </a>     </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/PriorityQueue/example"> 우선순위 큐 예제</a></th>
   </tr>
+  <tr>
+    <th> 덱 (dequeue) </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/dequeue"> 덱이란? </a>     </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/dequeue"> 덱 예제</a></th>
+  </tr>
    <tr>
     <th> Set </th>
     <th> <a href = "https://github.com/rloJo/OAAD/tree/main/Set"> Set 이란? </a>     </th>
