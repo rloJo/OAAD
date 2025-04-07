@@ -2,6 +2,19 @@
 ---
 <table>
   <tr>
+    <th> 🔍 SQL </th>
+    <th> 설명 보기</th> 
+    <th> 관련문제 </th>    
+  </tr>
+    <tr>
+    <th> SQL </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/SQL"> SQL 이란? </a>     </th>
+    <th> <a href = "https://github.com/rloJo/OAAD/tree/main/SQL/example"> SQL 예제</a></th>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th> 💾 자료구조 </th>
     <th> 설명 보기</th> 
     <th> 관련문제 </th>    
