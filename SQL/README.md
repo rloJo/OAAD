@@ -40,7 +40,6 @@
 - 특정 칼럼을 기준으로 집계함수를 사용하여 집계성 데이터를 추출할 때 사용
 - 중복을 제거할 때도 사용이 가능
 
-
 ### JOIN
 - 두 테이블의 컬럼을 전부 합쳐서 보여준다.
 - 따라서 조건을 넣어 사용해야 한다 (ON or USING) 키워드로 기준을 넣어준다.
@@ -147,3 +146,12 @@ RIGHT JOIN 결과
     <td>fruit_based</td>
   </tr>
 </table>
+
+### SUBSTRING
+- 문자열을 자를 때 사용
+- `SUBSTRING("SQL SERVER",5,6)` => 결과 : SERVER
+- 시작위치 5부터 길이 6까지 자른다
+- `LEFT("SQL SERVER",3)` => 결과 : SQL
+- 왼쪽부터 3의 길이를 자른다
+- `RIGHT("SQL SERVER",3)` => 결과 : REV
+- 오른쪽부터 3의길이를 자른다.
