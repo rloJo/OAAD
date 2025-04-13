@@ -35,7 +35,6 @@
 - 기본 값은 소수 첫번쨰 자리이다 ROUND(price,0) = ROUND(price)
 - 0 -> 1 이면 소수 번째 자리, 2이면 소수 세번째 자리가 된다.
 
-
 ### GROUP BY
 - 특정 칼럼을 기준으로 집계함수를 사용하여 집계성 데이터를 추출할 때 사용
 - 중복을 제거할 때도 사용이 가능
@@ -146,6 +145,18 @@ RIGHT JOIN 결과
     <td>fruit_based</td>
   </tr>
 </table>
+
+### CASE
+- 조건에 대한 새로운 열을 생성할 때 사용
+- 집계함수와 같이 사용한다.
+
+```sql
+CASE 컬럼
+  WHEN 조건 1 THEN 값 1
+  WHEN 조건 2 THEN 값 2
+  ELSE 값 3
+END
+```
 
 ### SUBSTRING
 - 문자열을 자를 때 사용
